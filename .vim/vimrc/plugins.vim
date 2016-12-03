@@ -109,3 +109,6 @@ Bundle 'sjl/badwolf'
 
 " Utilities, Dependencies
 Bundle 'L9'
+
+Bundle 'c.vim'
+Bundle 'bling/vim-airline'
